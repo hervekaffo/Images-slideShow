@@ -1,5 +1,4 @@
 # Images-slideShow
-Responsive Images slideshow 
 Web Based Responsive Slideshow
 
 i. Design decisions
